@@ -3,6 +3,7 @@
 
 - 👩🏻‍💻 I'm currently Studing Bachelor of Technology in Information Technology
 - 🌱 I’m currently learning Frontend Developer
+- Self Learner 📈
 - Life is like a loop ∞ — break it at the right time🌎
 -  Social Presence
    <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/abi-prasath-554a4727b)
