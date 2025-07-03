@@ -14,7 +14,7 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <br /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/php.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/ai.png"/> 
 
 ### Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 
 ![Blue55berry's Stats](https://github-readme-stats.vercel.app/api?username=Blue55berry&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
