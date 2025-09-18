@@ -15,7 +15,3 @@
 
 ### Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
-
-![Blue55berry's Stats](https://github-readme-stats.vercel.app/api?username=Blue55berry&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Blue55berry&bg_color=000000&color=ffffff&line=59dbf3&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
