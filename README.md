@@ -1,5 +1,7 @@
 ## Hi there 👋 It's me Abi
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" >
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Blue55berry)
+
 
 - 👩🏻‍💻 I'm currently Studing Bachelor of Technology in Information Technology
 - 🌱 I’m currently learning Frontend Developer
