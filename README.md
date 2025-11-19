@@ -1,15 +1,16 @@
 ## Hi there 👋 It's me Abi
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" >
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Blue55berry)
-
 
 - 👩🏻‍💻 I'm currently Studing Bachelor of Technology in Information Technology
+- 😉 Check out my Portfolio https://abi-prasath.web.app/
 - 🌱 I’m currently learning Frontend Developer
 - Self Learner 📈
 - Life is like a loop ∞ — break it at the right time🌎
 -  Social Presence
    <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/abi-prasath-554a4727b)
    <br /> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_un_lucky_55/)
+   <br />
+  [![HitCount](https://hits.dwyl.com/blue55berry/blue55berry.svg?style=flat-square&show=unique)](http://hits.dwyl.com/blue55berry/blue55berry)
    
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> 
